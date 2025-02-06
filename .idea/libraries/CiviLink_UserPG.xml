@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CiviLink_UserPG">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/CiviLink_UserPG.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
